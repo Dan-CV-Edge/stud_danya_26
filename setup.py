@@ -25,6 +25,8 @@ setup(
     entry_points={
         'console_scripts': [
             'first_node = stud_danya_26.first:main',
+            'number_mode = stud_danya_26.number:main',
+            'num_lis = stud_danya_26.num_list:main',
         ],
     },
 )
